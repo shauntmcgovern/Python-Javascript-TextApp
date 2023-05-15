@@ -1,3 +1,6 @@
+//Heavily relying upon CodeMirror. Even running a mock html display, a DOM, and implementing that into a javascript project for a Google ChromeOS build. Chromebook.
+//this class had todo with this issue: Prevent same file from being opened multiple times #354 https://github.com/GoogleChromeLabs/text-app/issues/354
+//I am running a developer mode, chrome extension that is a text-dev-app, I was able to change the textSize and see my alterations. 
 /**
  * @constructor
  */
