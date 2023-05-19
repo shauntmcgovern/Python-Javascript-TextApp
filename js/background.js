@@ -2,7 +2,10 @@
 //this class had todo with this issue: Prevent same file from being opened multiple times #354 https://github.com/GoogleChromeLabs/text-app/issues/354
 //I am running a developer mode, chrome extension that is a text-dev-app, I was able to change the textSize and see my alterations.
 
-//The developer version, doesn't have the same problem as the release, it either opens the double clicked chosen text file or it opens a new text-app with an "untitled 1 text-file" instead.
+//The developer version, doesn't have the same problem as the release, it either opens the double clicked chosen text file or it opens a new text-app with 
+//an "untitled 1 text-file" instead.
+
+//now this bug only opens a text document twice
 /**
  * @constructor
  */
