@@ -9,3 +9,6 @@ I just found another bug connected to this, same outcome and circumstance, if yo
 
 
 The next several steps of the QA&&T process is this: you find the lines of code in this very codebase as to where exactly this computer operation hence the action is taking place:; hitherto by clicking the same text file more than once the GoogleOS application never successfully wipes the Text<t> App completely leaving it with the other past old file(s) and the same previously opened Text<t> File()'s. So my computer scientist instinct is this, the senior developer could fix this problem in less than 2 weeks, but I however need to let this program tell the Google ChromebookOS I do not need your application to stay and keep open and still save my old files in the display as well, I want it closed and forgotten and removed like all the other times I have done this with your text files, than give me the same text file new() and a new Text<t> App and its the new file only displayed in the Google ChromebookOS application because the developer version doesn't have the same problem because it isn't using the ChromebookOS its using the Browser ChromeOS extension route for this Text<t> AppChromeBookExtention.
+
+
+//'
